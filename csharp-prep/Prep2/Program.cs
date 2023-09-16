@@ -51,6 +51,18 @@ class Program
             Console.WriteLine("Better luck next time");
         }
 
+        if (percentage > 93)
+
+        {
+            Console.WriteLine("A+");
+        }
+
+        else if (percentage >=90)
+
+        {
+            Console.WriteLine("A-");
+        }
+
     
 
     }
